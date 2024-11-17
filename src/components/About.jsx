@@ -31,7 +31,7 @@ const About = () => {
     <section id="about" className="relative bg-stone-900 py-24 overflow-hidden">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-5">
-        <div className="absolute inset-0 bg-[url('/api/placeholder/200/200')] bg-repeat opacity-20" />
+        <div className="absolute inset-0 bg-[url('/assets/food')] bg-repeat opacity-20" />
       </div>
 
       <div className="relative max-w-7xl mx-auto px-4">
