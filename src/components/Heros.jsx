@@ -17,7 +17,7 @@ const Hero = () => {
     <div className="relative min-h-screen overflow-hidden">
       {/* Background Image with Parallax */}
       <div
-        className="absolute inset-0 bg-[url('greek.jpg')] bg-cover bg-center"
+        className="absolute inset-0 bg-[url('greek')] bg-cover bg-center"
         style={{
           transform: `translateY(${scrollY * 0.5}px)`,
         }}
