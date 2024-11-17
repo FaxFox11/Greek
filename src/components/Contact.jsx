@@ -58,17 +58,17 @@ const ContactForm = () => {
                 {
                   icon: MapPin,
                   title: "Adresse",
-                  content: "Olymposstraße 123\n10115 Berlin",
+                  content: "Goldener Spiegel 6\n57074 Siegen",
                 },
                 {
                   icon: Phone,
                   title: "Telefon",
-                  content: "+49 (0) 30 123 456 78",
+                  content: "+49 170 7238166",
                 },
                 {
                   icon: Mail,
                   title: "E-Mail",
-                  content: "info@taverna-olympos.de",
+                  content: "info@tru-tec.de",
                 },
                 {
                   icon: Clock,
