@@ -84,14 +84,14 @@ const About = () => {
               <div className="space-y-4">
                 <div className="aspect-[4/5] rounded-lg overflow-hidden">
                   <img
-                    src="/api/placeholder/400/500"
+                    src="pic"
                     alt="Restaurant interior"
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                   />
                 </div>
                 <div className="aspect-[4/3] rounded-lg overflow-hidden">
                   <img
-                    src="/api/placeholder/400/300"
+                    src="pic2"
                     alt="Traditional cooking"
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                   />
@@ -100,14 +100,14 @@ const About = () => {
               <div className="space-y-4 pt-8">
                 <div className="aspect-[4/3] rounded-lg overflow-hidden">
                   <img
-                    src="/api/placeholder/400/300"
+                    src="pic3"
                     alt="Fresh ingredients"
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                   />
                 </div>
                 <div className="aspect-[4/5] rounded-lg overflow-hidden">
                   <img
-                    src="/api/placeholder/400/500"
+                    src="pic4"
                     alt="Restaurant atmosphere"
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                   />
