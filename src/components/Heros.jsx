@@ -17,7 +17,7 @@ const Hero = () => {
     <div className="relative min-h-screen overflow-hidden">
       {/* Background Image with Parallax */}
       <div
-        className="absolute inset-0 bg-[url('/assets/greek.jpg')] bg-cover bg-center"
+        className="absolute inset-0 bg-[url('../assets/greek.jpg')] bg-cover bg-center"
         style={{
           transform: `translateY(${scrollY * 0.5}px)`,
         }}
@@ -28,7 +28,7 @@ const Hero = () => {
       {/* Decorative Elements */}
       <div className="absolute inset-0">
         {/* Greek Pattern Overlay */}
-        <div className="absolute inset-x-0 top-0 h-32 bg-[url('/api/placeholder/100/100')] opacity-10" />
+        <div className="absolute inset-x-0 top-0 h-32 bg-[url('pattern')] opacity-10" />
 
         {/* Animated Light Particles */}
         <div
