@@ -131,14 +131,14 @@ const Footer = () => {
                 <li className="flex items-center space-x-3">
                   <MapPin className="w-5 h-5 text-amber-500" />
                   <span className="text-stone-400">
-                    Olymposstraße 123
+                    Goldener Spiegel 6
                     <br />
                     57074 Siegen
                   </span>
                 </li>
                 <li className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-amber-500" />
-                  <span className="text-stone-400">+49 (0) 30 123 456 78</span>
+                  <span className="text-stone-400">+49 170 7238166</span>
                 </li>
                 <li className="flex items-center space-x-3">
                   <Mail className="w-5 h-5 text-amber-500" />
@@ -165,7 +165,7 @@ const Footer = () => {
                   Impressum
                 </a>
                 <a
-                  href="#"
+                  href="https://tru-tec.de/impressum.php"
                   className="text-stone-500 hover:text-amber-500 text-sm transition-colors"
                 >
                   Datenschutz
