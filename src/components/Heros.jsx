@@ -52,14 +52,14 @@ const Hero = () => {
           </div>
 
           <h1 className="font-serif text-6xl md:text-7xl lg:text-8xl text-stone-100 leading-none">
-            Authentic Greek
-            <span className="block mt-2 text-amber-500">Cuisine</span>
+            Authentisch Griechische
+            <span className="block mt-2 text-amber-500">Kochkunst</span>
           </h1>
 
           <p className="text-lg md:text-xl text-stone-300 max-w-2xl">
-            Experience the warmth of Mediterranean hospitality and savor
-            traditional Greek flavors in the heart of the city. Each dish tells
-            a story of our heritage.
+            Erlebe die Wärme der mediterranen Gastfreundschaft und genieß ein
+            wenig Südwind im Herzen der Stadt. Jedes Gericht erzählt eine
+            Geschichte unseres antiken Erbes.
           </p>
 
           <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-6 pt-6">
