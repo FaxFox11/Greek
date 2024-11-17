@@ -171,10 +171,10 @@ const Footer = () => {
                   Datenschutz
                 </a>
                 <a
-                  href="https://tru-tec.de/datenschutz.php"
+                  href="https://tru-tec.de"
                   className="text-stone-500 hover:text-amber-500 text-sm transition-colors"
                 >
-                  AGB
+                  Besuche TruTec
                 </a>
               </div>
             </div>
