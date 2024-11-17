@@ -159,19 +159,19 @@ const Footer = () => {
               </p>
               <div className="flex space-x-6">
                 <a
-                  href="#"
+                  href="https://tru-tec.de/impressum.php"
                   className="text-stone-500 hover:text-amber-500 text-sm transition-colors"
                 >
                   Impressum
                 </a>
                 <a
-                  href="https://tru-tec.de/impressum.php"
+                  href="https://tru-tec.de/datenschutz.php"
                   className="text-stone-500 hover:text-amber-500 text-sm transition-colors"
                 >
                   Datenschutz
                 </a>
                 <a
-                  href="#"
+                  href="https://tru-tec.de/datenschutz.php"
                   className="text-stone-500 hover:text-amber-500 text-sm transition-colors"
                 >
                   AGB
