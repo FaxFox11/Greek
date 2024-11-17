@@ -103,7 +103,7 @@ const Header = () => {
                 Kontakt
               </a>
               <a
-                href="#reservierung"
+                href="#contact"
                 className="bg-gradient-to-r from-amber-600 to-amber-700 text-stone-100 px-6 py-2 rounded-full text-center font-medium hover:from-amber-500 hover:to-amber-600 transition-all duration-300"
               >
                 Reservierung
