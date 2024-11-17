@@ -133,7 +133,7 @@ const Footer = () => {
                   <span className="text-stone-400">
                     Olymposstraße 123
                     <br />
-                    10115 Berlin
+                    57074 Siegen
                   </span>
                 </li>
                 <li className="flex items-center space-x-3">
@@ -142,9 +142,7 @@ const Footer = () => {
                 </li>
                 <li className="flex items-center space-x-3">
                   <Mail className="w-5 h-5 text-amber-500" />
-                  <span className="text-stone-400">
-                    info@taverna-olympos.de
-                  </span>
+                  <span className="text-stone-400">info@tru-tec.de</span>
                 </li>
               </ul>
             </div>
@@ -156,7 +154,7 @@ const Footer = () => {
           <div className="max-w-7xl mx-auto px-4 py-6">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <p className="text-stone-500 text-sm">
-                © {new Date().getFullYear()} Taverna Olympos. Alle Rechte
+                © {new Date().getFullYear()} Design by TruTec. Alle Rechte
                 vorbehalten.
               </p>
               <div className="flex space-x-6">
