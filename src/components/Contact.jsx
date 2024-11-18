@@ -41,11 +41,10 @@ const ContactForm = () => {
             <div className="h-px w-16 bg-gradient-to-r from-transparent via-amber-500 to-transparent" />
           </div>
           <h2 className="font-serif text-4xl text-stone-100 mb-4">
-            Besuchen Sie uns
+            Dies könnte Ihre Website sein
           </h2>
           <p className="text-stone-300">
-            Erleben Sie authentische griechische Gastfreundschaft. Reservieren
-            Sie einen Tisch oder kontaktieren Sie uns für Fragen.
+            Falls Ihnen gefällt was Sie sehen dann melden Sie sich bei TruTec oder tru-tec.de
           </p>
         </div>
 
